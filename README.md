@@ -5,7 +5,26 @@ A modern Android Weather Application built using **Kotlin** and **Jetpack Compos
 ---
 
 ## 📱 Screenshots
+🏠 Home Screen
+![Home](screenshots/home.png)
 
+### 📍 Current Location
+![Current Location](screenshots/current-location.png)
+
+### 🌤️ Weather Details
+![Weather Details](screenshots/weather-details.png)
+
+### ⏰ Hourly Forecast
+![Hourly Forecast](screenshots/hourly-forecast.png)
+
+### 📅 5-Day Forecast
+![5-Day Forecast](screenshots/five-day-forecast.png)
+
+### ⭐ Favorites
+![Favorites](screenshots/favorites.png)
+
+### 🕒 Recent Searches
+![Recent Searches](screenshots/recent-searches.png)
 
 
 # ✨ Features
