@@ -118,7 +118,7 @@ OpenWeatherMap API
 
 # 👨‍💻 Developer
 
-**Rithik**
+**Theja Sree R**
 
 MCA Student | Android Developer | Kotlin Learner
 
